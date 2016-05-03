@@ -1,0 +1,10 @@
+{
+  "APP_NAME": "komprenganMVC",
+  "AUTHOR": "Nuzulul Huda",
+  "EMAIL": "hudanuzulul@gmail.com",
+  "GITHUB": "https://github.com/ulul",
+  "APP_VERSION": {
+    "VERSION": "0.1.1",
+    "STATUS" : "Relese Candidate"
+  }
+}
